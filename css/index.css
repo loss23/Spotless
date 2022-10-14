@@ -10,7 +10,8 @@ body {
 
 .Navbar {
    background-color: #333;
-   overflow: hidden;   
+   overflow: hidden;
+   bottom: 25%;
 }
 
 .Header1 {
