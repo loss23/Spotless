@@ -1,0 +1,56 @@
+body {
+    background-image: url(../src/Background.png);
+    background-size: cover;
+    background-position: scroll 0px center;
+    background-repeat: no-repeat;
+    display: sticky;
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+.Header1 {
+    color: #8541f3;
+    font-size: 1.5em;
+    font-weight: bold;
+    position: relative;
+    margin-bottom: 2px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 2500;
+    text-rendering: geometricPrecision;
+    cursor: pointer;
+    left: 0%;
+    bottom: 25%;
+}
+
+.Logo1 {
+    position: absolute;
+    left: 2%;
+    top: 5%;
+    height: 25%;
+    box-shadow: 2px 12px 15px #3900949d;
+}
+
+.Article1 {
+    color: #4e68ff;
+    text-shadow: 2px 2px 5px #510cbe9d;
+    background-color: #39009471;
+    box-shadow: 2px 12px 15px #3900949d;
+    font-size: 1.5em;
+    font-weight: bolder;
+    position: relative;
+    margin-bottom: 2px;
+    font-family:'Times New Roman', Times, serif;
+    width: 555px;
+    cursor: text;
+    left: 15%;
+    top: 80px;
+    text-shadow:
+    0 0 7px #4e68ff,
+    0 0 10px #4e68ff,
+    0 0 21px #4e68ff,
+    0 0 42px #3900949d,
+    0 0 82px #3900949d,
+    0 0 92px #3900949d,
+    0 0 102px #3900949d,
+    0 0 151px #3900949d;
+}
